@@ -10,3 +10,4 @@ if (value === 100) {
 }
 // 潘有相
 console.log(2);
+console.log(4);
