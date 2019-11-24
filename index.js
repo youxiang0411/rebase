@@ -9,7 +9,7 @@ if (value === 100) {
     console.log(value);
 }
 // 潘有相
-console.log(2);
+console.log('A');
 console.log(4);
 console.log(6);
 console.log(8);
