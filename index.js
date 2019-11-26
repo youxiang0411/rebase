@@ -18,3 +18,4 @@ console.log('master 2');
 console.log('master 5');
 console.log('master 6');
 console.log('master 9');
+console.log('master 10');
