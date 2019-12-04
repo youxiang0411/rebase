@@ -22,5 +22,3 @@ console.log('master 44444444');
 console.log('role');
 console.log('rule');
 console.log('rule1');
-console.log('my');
-console.log('getList');
