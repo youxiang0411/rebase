@@ -19,3 +19,4 @@ console.log('default user');
 console.log('add/edit/del/get');
 console.log('mask');
 console.log('master 44444444');
+console.log('role');
