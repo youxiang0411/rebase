@@ -25,3 +25,4 @@ console.log('rule1');
 console.log('my');
 console.log('getList');
 console.log('where');
+console.log('hello');
