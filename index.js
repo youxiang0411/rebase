@@ -24,3 +24,4 @@ console.log('rule');
 console.log('rule1');
 console.log('www.baidu.com');
 console.log('www.1111.com');
+// 8
