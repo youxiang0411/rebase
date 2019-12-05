@@ -17,3 +17,4 @@ pyx 4
 pyx 5
 pyx 6
 pyx 7
+pyx 8
